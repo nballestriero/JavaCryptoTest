@@ -4,6 +4,7 @@
 
 package com.mycompany.javacryptotest;
 
+
 /**
  *
  * @author user
@@ -11,6 +12,6 @@ package com.mycompany.javacryptotest;
 public class JavaCryptoTest {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
     }
 }
